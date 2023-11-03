@@ -16,10 +16,10 @@ DOI: 10.1021/acs.jctc.2c01297`
 
 ## User Guide
 
-+ [1. Introduction](docs/user_guide/1.introduction.md)
-+ [2. Installation](docs/user_guide/2.installation.md)
-+ [3. Basic Usage](docs/user_guide/3.usage.md)
-+ [4. Modules](docs/user_guide/4.modules.md)
++ [1. Introduction](/1.introduction.md)
++ [2. Installation](/2.installation.md)
++ [3. Basic Usage](/3.usage.md)
++ [4. Modules](/4.modules.md)
   + [Classical](docs/user_guide/4.1classical.md)
   + [ADMP](docs/user_guide/4.2ADMPPmeForce.md)
   + [Qeq](docs/user_guide/4.3ADMPQeqForce.md)
